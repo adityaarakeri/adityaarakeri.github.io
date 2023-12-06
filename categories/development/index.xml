@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>development on Website of Aditya Arakeri</title>
+    <link>https://adityaarakeri.com/categories/development/</link>
+    <description>Recent content in development on Website of Aditya Arakeri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 26 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://adityaarakeri.com/categories/development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Resolving the Log4J Crisis</title>
+      <link>https://adityaarakeri.com/post/log4j/</link>
+      <pubDate>Sun, 26 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://adityaarakeri.com/post/log4j/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;Resolving the Log4J Crisis: A Tale of Teamwork and Swift Action&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>krypter</title>
+      <link>https://adityaarakeri.com/post/krypter/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://adityaarakeri.com/post/krypter/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;A node wrapper around the native crypto module which uses the below capabilities&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Algorithm: aes-256-cbc&lt;/li&gt;
+&lt;li&gt;default key and iv generation&lt;/li&gt;
+&lt;li&gt;Crypt main class&lt;/li&gt;
+&lt;li&gt;a encrypt method&lt;/li&gt;
+&lt;li&gt;a decrypt method&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Hacktoberfest 2019</title>
+      <link>https://adityaarakeri.com/post/hacktoberfest2019/</link>
+      <pubDate>Tue, 29 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://adityaarakeri.com/post/hacktoberfest2019/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;made significant contributions to open source in the year 2019&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Keep your forks updated</title>
+      <link>https://adityaarakeri.com/post/keep-fork-updated/</link>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://adityaarakeri.com/post/keep-fork-updated/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;You are looking to contribute to an awesome project on GitHub and you finally find it and fork the repo. a few weeks later you worked on the forked repo but are afraid the fork is way behind the original repo. how would you keep it up to date? here is how&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hacktoberfest 2018</title>
+      <link>https://adityaarakeri.com/post/hacktoberfest2018/</link>
+      <pubDate>Mon, 29 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://adityaarakeri.com/post/hacktoberfest2018/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;2018 was my first hacktoberfest, was super exited to be contributing to open source.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

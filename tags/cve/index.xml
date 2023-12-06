@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cve on Website of Aditya Arakeri</title>
+    <link>https://adityaarakeri.com/tags/cve/</link>
+    <description>Recent content in cve on Website of Aditya Arakeri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 26 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://adityaarakeri.com/tags/cve/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Resolving the Log4J Crisis</title>
+      <link>https://adityaarakeri.com/post/log4j/</link>
+      <pubDate>Sun, 26 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://adityaarakeri.com/post/log4j/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;Resolving the Log4J Crisis: A Tale of Teamwork and Swift Action&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

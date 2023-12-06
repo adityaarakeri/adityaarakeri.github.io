@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>crypto on Website of Aditya Arakeri</title>
+    <link>https://adityaarakeri.com/categories/crypto/</link>
+    <description>Recent content in crypto on Website of Aditya Arakeri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 06 May 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://adityaarakeri.com/categories/crypto/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>krypter</title>
+      <link>https://adityaarakeri.com/post/krypter/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://adityaarakeri.com/post/krypter/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;A node wrapper around the native crypto module which uses the below capabilities&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Algorithm: aes-256-cbc&lt;/li&gt;
+&lt;li&gt;default key and iv generation&lt;/li&gt;
+&lt;li&gt;Crypt main class&lt;/li&gt;
+&lt;li&gt;a encrypt method&lt;/li&gt;
+&lt;li&gt;a decrypt method&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

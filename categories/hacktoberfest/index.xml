@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hacktoberfest on Website of Aditya Arakeri</title>
+    <link>https://adityaarakeri.com/categories/hacktoberfest/</link>
+    <description>Recent content in hacktoberfest on Website of Aditya Arakeri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 29 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://adityaarakeri.com/categories/hacktoberfest/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hacktoberfest 2019</title>
+      <link>https://adityaarakeri.com/post/hacktoberfest2019/</link>
+      <pubDate>Tue, 29 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://adityaarakeri.com/post/hacktoberfest2019/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;made significant contributions to open source in the year 2019&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hacktoberfest 2018</title>
+      <link>https://adityaarakeri.com/post/hacktoberfest2018/</link>
+      <pubDate>Mon, 29 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://adityaarakeri.com/post/hacktoberfest2018/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;2018 was my first hacktoberfest, was super exited to be contributing to open source.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
